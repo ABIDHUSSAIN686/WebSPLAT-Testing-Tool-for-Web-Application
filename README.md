@@ -1,4 +1,8 @@
 Welcome to WEBAPLAT
+
+WEBSPLAT is a testing platform in which we will migrate the test suite of the base variant and make it 
+compatible with the different web SPL variants. It will reduce the effort by using the Automated Test Scripts 
+and reusing the UI-level test cases
 ------------------------------------
 Commands to Run Spring-Boot Project
 ------------------------------------
